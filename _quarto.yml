@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: docs 
+
+website:
+  title: "Black Earth Restoration Collective"
+  navbar:
+    background: primary 
+    search: false 
+    left: 
+      - href: index.qmd
+        text: "Home"
+      - href: about.qmd
+        text: "About"
+      - href: networkMembers.qmd 
+        text: "Network Members"
+      - href: research.qmd 
+        text: "Our Work" 
+      - href: forum.qmd
+        text: "Events" 
+      - href: linkingPerspectives.qmd 
+        text: "Publications" #outputs ? 
+      - href: team.qmd 
+        text: "Team"
+      - href: resources.qmd 
+        text: "Resources"
+      - href: posts.qmd
+        text: "Posts"
+      
+#      - href: board.qmd 
+#        text: "Board"
+      
+      # making four pages beyond home page: networkMembers
+      # Research.qmd (bibliography), Forum.qmd, and linkingPerspectives.qmd
+      # added posts page Sept 2024
+
+format:
+  html:
+    theme: sandstone 
+    css: styles.css
+    toc: true
+    code-fold: true 
+    cold-tools: 
+      toggle: true 
+      source: false
+
+editor: visual
+
