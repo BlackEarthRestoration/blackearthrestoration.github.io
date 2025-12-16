@@ -26,10 +26,3 @@ about:
 **This work was conducted on the ancestral homelands of the Council of Three Fires: the Ojibwe, Odawa and Potawatomi tribes. We share and celebrate the historic and contemporary ties of local Indigenous people as well as acknowledge the labour and knowledge of Black and Latine people who have shaped land and restoration here.**
 :::
 
-     
-
-::: {style="font-style: italic; font-size: 10; text-align: center; margin: 0px 100px 0px 100px"}
-**BERC is a project of the Synthesis Center for Conservation and Restoration (sCORE) of the Chicago Botanic Garden.**
-:::
-
-![](images/CBGLogo.png){fig-align="center" width="500"}
