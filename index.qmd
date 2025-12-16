@@ -23,6 +23,6 @@ about:
      
 
 ::: {style="font-style: bold; font-size: 10; text-align: center; margin: 0px 25px 0px 25px"}
-**This work was conducted on the ancestral homelands of the Council of Three Fires: the Ojibwe, Odawa and Potawatomi tribes. We share and celebrate the historic and contemporary ties of local Indigenous people as well as acknowledge the labour and knowledge of Black and Latine people who have shaped land and restoration here.**
+**This work was conducted on the ancestral homelands of the Council of Three Fires: the Ojibwe, Odawa and Potawatomi tribes. We share and celebrate the historic and contemporary ties of local Indigenous people as well as acknowledge the labor and knowledge of Black and Latine people who have shaped land and restoration here.**
 :::
 
