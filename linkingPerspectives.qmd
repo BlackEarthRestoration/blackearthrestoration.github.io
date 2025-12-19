@@ -3,7 +3,7 @@ title: "Publications"
 css: styles.css
 ---
 
-The perspective piece "Shifting dynamics in restoration ecology: Concrete steps towards centering Black, Indigenous, and People of Color's communities and perspectives" written by the founding members is currently under peer review. When it is available, it can be found using the citation below.
+Our perspective piece written by the founding members is available for free [online](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/2688-8319.12345)!
 
 <div>
 
